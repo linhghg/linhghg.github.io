@@ -37,3 +37,6 @@ markdown: kramdown
 #exclude:
 #  - Gemfile
 #  - Gemfile.lock
+
+# Better organization
+include: [_pages]
