@@ -17,28 +17,23 @@
           {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {% endif %}
-          <li><small>Last updated on {{'now' | date: "%h %d, %Y"}}</small></li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
-          {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
           </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
           <li>
             {% include icon-linkedin.html username=site.linkedin_url %}
           </li>
-          {% endif %}
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+          <!-- <p>{{ site.description | escape }}</p> -->
+          <p><small>Last updated on {{'now' | date: "%h %d, %Y"}}</small></p>
       </div>
     </div>
 
