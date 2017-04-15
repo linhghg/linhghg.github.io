@@ -1,6 +1,7 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
 ---
+# Honghuang Lin (林泓煌)
+Welcome to my personal website (still under construction as of Apr 14, 2017).
+
+If it's still under construction one month later, it means - `这家伙很懒， 什么也没有留下`...

@@ -1,0 +1,27 @@
+#- title: "Home"
+#  href: "/"
+
+- title: "Posts"
+  href: "/posts/"
+
+- title: "CV"
+  href: "/cv/"
+  subcategories:
+    - subtitle: "HTML Version"
+      subhref: "/cv/html/"
+    - subtitle: "PDF Version"
+      subhref: "/cv/pdf/"
+
+- title: "Research"
+  href: "/research/"
+  subcategories:
+    - subtitle: "Publications"
+      subhref: "/research/publications/"
+    - subtitle: "Services"
+      subhref: "/research/services/"
+
+- title: "Projects"
+  href: "/projects/"
+
+- title: "About"
+  href: "/about/"
