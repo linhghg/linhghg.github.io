@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-# Honghuang Lin (林泓煌)
-Welcome to my personal website (still under construction as of Apr 14, 2017).
+# Welcome
+My name is Honghuang Lin (林泓煌). Welcome to my personal website.
 
-If it's still under construction one month later, it means - `这家伙很懒， 什么也没有留下`...
+The goal of creating this website is to:
+* Host a more maintainable [CV](/cv/)
+* Provide an overview/summary of my research work
+* Gather my learning notes or dev notes in the [Posts](/posts/) to create my knowledge base
+* Have a "personal website" that can be included in my profile :)
