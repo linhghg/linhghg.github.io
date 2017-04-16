@@ -1,6 +1,6 @@
 ---
-layout: page
-title:
+layout: default
+title: CV-HTML
 permalink: /cv/html/
 ---
 <script src="https://www.w3schools.com/lib/w3data.js"></script>

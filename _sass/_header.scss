@@ -3,23 +3,22 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 4px solid $clemson-purple;
-    min-height: 56px;
-    background: #f66733;
+    border-bottom: 2px solid $grey-color-dark;
+    min-height: $spacing-unit * 1.865;
+    background: $sapphire-blue;
     // Positioning context for the mobile navigation icon
     position: relative;
-
 }
 
 .site-title {
-    font-size: 26px;
-/* 		margin-top: 15px;
-    line-height: 40px; */
-    letter-spacing: -1px;
+    font-family: 'Tangerine', sans-serif;
+    text-shadow: 4px 4px 4px #999;
+    @include relative-font-size(2);
+    font-weight: 500;
+    //line-height: $base-line-height * $base-font-size * 2.25;
+    letter-spacing: 2px;
     margin-bottom: 0;
     float: left;
-    font-weight: 500;
-		font-family: 'Titillium Web', sans-serif;
     color: #ffffff;
     &,
     &:visited {
@@ -27,13 +26,13 @@
     }
     &,
     &:hover {
-	text-decoration: none;
-}
+        text-decoration: none;
+    }
 }
 
 .site-header .wrapper {
-	padding-top: 20px;
-	position: relative;
+    padding-top: 20px;
+    position: relative;
 }
 
 .site-nav ul li a {
@@ -87,18 +86,18 @@ color: #522d80;
 }
 
 .site-nav .sub-menu a:hover {
-	color: $clemson-orange;
+	color: $sapphire-blue;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
-	border-color: $clemson-purple;
+//	border-color: $clemson-purple;
 	min-width: 265px;
 
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	border-left-color: $clemson-orange;
-	border-right-color: $clemson-orange;
+//	border-left-color: $clemson-orange;
+//	border-right-color: $clemson-orange;
 	border-right: 0px;
 
 }
@@ -157,7 +156,7 @@ z-index:999;
 
     .page-link {
         color: #ffffff;
-    background: $clemson-orange;
+    background: $sapphire-blue;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
