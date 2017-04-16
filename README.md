@@ -13,4 +13,4 @@ The list of references/resources I used when I created this site is as follows:
     * [svmiller.com](https://github.com/svmiller/svmiller.github.io)
 * Google Fonts
     * [Get Started with the Google Fonts API](https://developers.google.com/fonts/docs/getting_started)
-    * Google fonts: [Tangerine](https://fonts.google.com/specimen/Tangerine), [Alegreya](https://fonts.google.com/specimen/Alegreya)
+    * Google fonts: [Tangerine](https://fonts.google.com/specimen/Tangerine), [Alegreya](https://fonts.google.com/specimen/Alegreya), [Droid Sans Mono](https://fonts.google.com/specimen/Droid+Sans+Mono)

@@ -129,6 +129,7 @@ blockquote {
  */
 pre,
 code {
+    font-family: Droid Sans Mono;
     @include relative-font-size(0.9375);
     border: 1px solid $grey-color-light;
     border-radius: 3px;
